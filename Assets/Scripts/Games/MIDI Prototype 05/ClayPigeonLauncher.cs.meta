@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 45d8507dcaf5ebb4985939d57daf242c
+timeCreated: 1460737609
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - clayPigeonPrefab: {fileID: 172066, guid: 007e0b4f514688245ad8cea05db81615, type: 2}
+  - gizmoMesh: {fileID: 4300000, guid: 51ccee4d19325db4db6d0ca38f88d03c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

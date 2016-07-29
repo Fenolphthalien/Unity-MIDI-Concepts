@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9fa84469b861b1a4e8061d09156c4951
+timeCreated: 1460916071
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - damageSound_healthy: {fileID: 8300000, guid: 8736c6e9ffcb81349b8c3258762d9b90,
+      type: 3}
+  - damageSound_nearDeath: {fileID: 8300000, guid: 41b8ac1198de3184c98e3220d9d98df1,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
